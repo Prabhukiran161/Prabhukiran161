@@ -1,7 +1,6 @@
 # Hello Devs, I'm Prabhu Kiran 👋
 
-
-## 🚀 About Me  
+# 🚀 About Me ![Profile Views](https://komarev.com/ghpvc/?username=Prabhukiran161&color=blue)
 
 I'm a passionate **Software Development Engineer** with **2+ years** of experience in **Web & Mobile Application** development, integrating **AI** to create innovative solutions. I thrive on solving complex problems, exploring new technologies, and collaborating on impactful projects.  
 
@@ -30,7 +29,7 @@ I'm a passionate **Software Development Engineer** with **2+ years** of experien
 ---  
 
 
-## 🛠 Skills
+# 🛠 Skills
 
 <table align="center" width="500">
   <tr width="500">
@@ -67,7 +66,7 @@ I'm a passionate **Software Development Engineer** with **2+ years** of experien
 
 ---
 
-## 📊 GitHub Stats & Activity
+# 📊 GitHub Stats & Activity
 
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -85,7 +84,7 @@ I'm a passionate **Software Development Engineer** with **2+ years** of experien
 
 ---
 
-## 🌍 Connect & Collaborate
+# 🌍 Connect & Collaborate
 **Let's connect over open-source, tech discussions, or the latest in web development. I'd love to connect with you!** 
 <br>
 <p align="center">
