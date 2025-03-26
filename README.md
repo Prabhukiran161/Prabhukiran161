@@ -87,6 +87,9 @@ I'm a passionate **Software Development Engineer** with **2+ years** of experien
 # 🌍 Connect & Collaborate
 **Let's connect over open-source, tech discussions, or the latest in web development. I'd love to connect with you!** 
 <br>
+<div align="center">
+  <img src="cover-thompson.png" alt="Cover Image" width="80%">
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/helloprabhukiran" target="_blank">
     <img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" style="transition: transform 0.2s ease-in-out;" 
