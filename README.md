@@ -1,5 +1,9 @@
 # Hello Devs, I'm Prabhu Kiran 👋
 
+<div align="center">
+  <img src="banner.png" alt="Cover Image" width="100%">
+</div>
+
 # 🚀 About Me ![Profile Views](https://komarev.com/ghpvc/?username=Prabhukiran161&color=blue)
 
 I'm a passionate **Software Development Engineer** with **2+ years** of experience in **Web & Mobile Application** development, integrating **AI** to create innovative solutions. I thrive on solving complex problems, exploring new technologies, and collaborating on impactful projects.  
