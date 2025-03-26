@@ -5,29 +5,26 @@
 
 I'm a passionate **Software Development Engineer** with **2+ years** of experience in **Web & Mobile Application** development, integrating **AI** to create innovative solutions. I thrive on solving complex problems, exploring new technologies, and collaborating on impactful projects.  
 
-<div align="center">
-  <table style="border-collapse: collapse; width: 60%; background: #fff; border-radius: 10px;  overflow: hidden;">
-    <tr>
-      <th style="text-align: left; padding: 12px; width: 44%; font-weight: bold; border-radius: 10px 0 0 0;">🔭 Currently Building</th>
-      <td style="padding: 12px; font-weight: bold; border-radius: 0 10px 0 0; width: 60%;">
-        <span style="color: #f9ab00;">AlgoVis</span> – See Algorithms in Action
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align: left; padding: 12px; width: 44%; font-weight: bold; border-radius: 10px 0 0 0;">🌱 Learning</th>
-      <td style="padding: 12px;">
-        <img src="https://img.shields.io/badge/Solidity-%23363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" height="35px">
-        <img src="https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust&logoColor=white" alt="Rust" height="35px">
-      </td>
-    </tr>
-    <tr>
-      <th style="text-align: left; padding: 12px; width: 44%; font-weight: bold; border-radius: 10px 0 0 0;">🤝 Open to Collaborate On</th>
-      <td style="padding: 12px; border-radius: 0 0 10px 0;">
-        <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-%23F9AB00?style=flat&logo=google&logoColor=white" alt="GSoC" height="30px">
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr colspan="2">
+    <td align="left"><strong>🔭 Currently Building</strong></td>
+    <td align="left" colspan="3"><strong>AlgoVis</strong> – See Algorithms in Action</td>
+  </tr>
+  <tr>
+    <td align="left" ><strong>🌱 Learning</strong></td>
+    <td align="left" colspan="2">
+      <img src="https://img.shields.io/badge/Solidity-%23363636?style=flat&logo=solidity&logoColor=white" alt="Solidity" height="35px">
+      <img src="https://img.shields.io/badge/Rust-%23000000?style=flat&logo=rust&logoColor=white" alt="Rust" height="35px">
+    </td>
+  </tr>
+  <tr>
+    <td align="left" ><strong>🤝 Open to Collaborate On</strong></td>
+    <td align="left" colspan="2">
+      <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-%23F9AB00?style=flat&logo=google&logoColor=white" alt="GSoC" height="30px">
+    </td>
+  </tr>
+</table>
+
 
 
 ---  
@@ -35,35 +32,38 @@ I'm a passionate **Software Development Engineer** with **2+ years** of experien
 
 ## 🛠 Skills
 
-<table align="center">
-  <tr>
-    <td align="center" width="400">
+<table align="center" width="500">
+  <tr width="500">
+    <td align="center" colspan="2" width="500" height="100" rowspan="2">
       <strong>Programming Languages</strong><br>
       <img src="https://skillicons.dev/icons?i=python,js,java,solidity,rust" />
-    </td>
-    <td align="center" width="400">
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="500" height="100">
       <strong>Frameworks & Libraries</strong><br>
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,express" />
     </td>
   </tr>
   <tr>
-    <td align="center" width="400">
+    <td align="center" colspan="2" width="500" height="100" rowspan="2">
       <strong>Databases & Cloud</strong><br>
       <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
-    </td>
-    <td align="center" width="400">
+    </td>    
+  </tr>
+  <tr>
+    <td align="center" colspan="2" width="500" height="100">
       <strong>Development Workflow</strong><br>
       <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,neovim" />
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="4" width="500" height="100" rowspan="2">
       <strong>DevOps & Infrastructure</strong><br>
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,jenkins" />
     </td>
   </tr>
 </table>
-
 
 ---
 
