@@ -17,7 +17,7 @@ I'm a passionate **Software Development Engineer** with **2+ years** of experien
     </td>
   </tr>
   <tr>
-    <td align="left" ><strong>🤝 Open to Collaborate On</strong></td>
+    <td align="left" ><strong>🤝 Open To Collaborate On</strong></td>
     <td align="left" colspan="2">
       <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-%23F9AB00?style=flat&logo=google&logoColor=white" alt="GSoC" height="30px">
     </td>
